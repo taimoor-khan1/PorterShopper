@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "559674016382",
+    "firebase_url": "https://portercustomer-d8ee0-default-rtdb.firebaseio.com",
+    "project_id": "portercustomer-d8ee0",
+    "storage_bucket": "portercustomer-d8ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559674016382:android:4e80f0e10f296744690e2f",
+        "android_client_info": {
+          "package_name": "com.portercustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559674016382-r792h7bpv0bnhb8rfupgrrh1uuteniqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.portercustomer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfm3TzTJUfXjTzR461hyO6BSqeK96wmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559674016382-2edeequhe9bb4nkegjedkg50971i4eq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re.app.PorterRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559674016382:android:bd13a4a11e5403f8690e2f",
+        "android_client_info": {
+          "package_name": "com.porterrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559674016382-t9i2fqjdoph38lrufbiasgupda5pnc0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.porterrider",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfm3TzTJUfXjTzR461hyO6BSqeK96wmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559674016382-2edeequhe9bb4nkegjedkg50971i4eq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re.app.PorterRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559674016382:android:992fe53e98b29870690e2f",
+        "android_client_info": {
+          "package_name": "com.portershopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfm3TzTJUfXjTzR461hyO6BSqeK96wmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559674016382-2edeequhe9bb4nkegjedkg50971i4eq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re.app.PorterRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559674016382:android:c9432f9691da1f9a690e2f",
+        "android_client_info": {
+          "package_name": "com.portervendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfm3TzTJUfXjTzR461hyO6BSqeK96wmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559674016382-2edeequhe9bb4nkegjedkg50971i4eq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re.app.PorterRider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
