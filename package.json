@@ -34,7 +34,7 @@
     "axois": "^0.0.1-security",
     "firebase": "^9.1.2",
     "ios": "^0.0.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "native-base": "2",
     "react": "17.0.1",
     "currency.js": "^2.0.4",
